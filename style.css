@@ -1,0 +1,21 @@
+*{
+    text-align: justify;
+}
+body{
+    background-color: rgb(237, 249, 246);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+#container{
+    max-width: 70%;
+    margin: auto;
+}
+
+p,span{
+    font-size: 20px;
+    line-height: 1.4;
+
+}
